@@ -1,0 +1,25 @@
+{
+   "channels":[
+      {
+         "title":"Toonami Aftermath (Pacific Time)",
+		 "id": "pt",
+         "description":"Non-stop classic tv programming circa 2000 featuring full schedule, seasonal events, classic commercials, Movies and more. See schedule at: ToonamiAftermath.com/schedule",
+         "url":"http://toonamiaftermath.com/pst.xml",
+         "appImageURL":"https://i.imgur.com/tsuMCBm.jpg?1"
+      },
+	  {
+         "title":"Toonami Aftermath (Eastern Time)",
+		 "id": "est",
+         "description":"Non-stop classic tv programming circa 2000 featuring full schedule, seasonal events, classic commercials, Movies and more. See schedule at: ToonamiAftermath.com/schedule",
+         "url":"http://toonamiaftermath.com/est.xml",
+         "appImageURL":"https://i.imgur.com/tsuMCBm.jpg?1"
+      },
+	  {
+         "title":"Toonami Radio",
+		 "id": "radio",
+         "description":"Classic tracks from your favorite animated series plus some other hot beats served up by the fine staff over at http://www.toonamiaftermath.com \"I love this job.\" -DJ Toon",
+         "url":"http://toonamiaftermath.com/radio.xml",
+         "appImageURL":"https://i.imgur.com/BrYdB6t.png"
+      }
+   ]
+}
